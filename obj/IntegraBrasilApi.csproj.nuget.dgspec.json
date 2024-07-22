@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diogo\\IntegraBrasilApi\\IntegraBrasilApi.csproj": {}
+    "/home/diogo/RiderProjects/IntegraBrasil-API/IntegraBrasilApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diogo\\IntegraBrasilApi\\IntegraBrasilApi.csproj": {
+    "/home/diogo/RiderProjects/IntegraBrasil-API/IntegraBrasilApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diogo\\IntegraBrasilApi\\IntegraBrasilApi.csproj",
+        "projectUniqueName": "/home/diogo/RiderProjects/IntegraBrasil-API/IntegraBrasilApi.csproj",
         "projectName": "IntegraBrasilApi",
-        "projectPath": "C:\\Users\\Diogo\\IntegraBrasilApi\\IntegraBrasilApi.csproj",
-        "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diogo\\IntegraBrasilApi\\obj\\",
+        "projectPath": "/home/diogo/RiderProjects/IntegraBrasil-API/IntegraBrasilApi.csproj",
+        "packagesPath": "/home/diogo/.nuget/packages/",
+        "outputPath": "/home/diogo/RiderProjects/IntegraBrasil-API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Diogo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/diogo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -57,8 +57,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -70,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.424\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.132/RuntimeIdentifierGraph.json"
         }
       }
     }

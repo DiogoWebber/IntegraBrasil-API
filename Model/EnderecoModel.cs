@@ -4,8 +4,6 @@ namespace IntegraBrasilApi.Model{
 
 public class EnderecoModel
 {
-    public class Root
-    {
         [JsonPropertyName("cep")]
         public string? Cep { get; set; }
 
@@ -23,5 +21,5 @@ public class EnderecoModel
 
         [JsonPropertyName("service")]
         public string? Servico { get; set; }
-    }
-}}
+}
+}

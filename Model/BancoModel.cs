@@ -4,8 +4,6 @@ namespace IntegraBrasilApi.Model{
 
 public class BancoModel
 {
-    public class Root
-    {
         [JsonPropertyName("ispb")]
         public string? Ispb { get; set; }
 
@@ -17,6 +15,6 @@ public class BancoModel
 
         [JsonPropertyName("fullName")]
         public string? NomeCompleto { get; set; }
-    }
+}
 
-}}
+}
