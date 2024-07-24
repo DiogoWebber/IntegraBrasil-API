@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntegraBrasilApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfa7070d8bcc9f79e1005f9f78849f8836ada931")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f8a29cf39864a9a4ca8000e150334ac66383e86")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntegraBrasilApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntegraBrasilApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
